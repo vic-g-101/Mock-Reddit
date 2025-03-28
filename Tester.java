@@ -1,8 +1,6 @@
    
    /*
- * Name: Victor Gomez
- * Email: vig002@ucsd.edu
- * PID: A17390106
+ 
  * This program tests the classes Post and User
  */public class Tester {
         public static void main(String[] args) {
