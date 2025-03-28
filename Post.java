@@ -1,7 +1,4 @@
 /*
- * Name: Victor Gomez
- * Email: vig002@ucsd.edu
- * PID: A17390106
  * This program will either make an orignial post 
  * or comment
  */
