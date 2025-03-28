@@ -1,7 +1,4 @@
 /*
- * Name: Victor Gomez
- * Email: vig002@ucsd.edu
- * PID: A17390106
  * This program will create a user and will
  * show how much karma a user might have
  * and the original posts they have liked
